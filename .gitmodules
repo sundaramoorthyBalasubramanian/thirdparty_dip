@@ -1,0 +1,3 @@
+[submodule "vendor1"]
+	path = vendor1
+	url = https://github.com/sundaramoorthyBalasubramanian/vendorip1.git
